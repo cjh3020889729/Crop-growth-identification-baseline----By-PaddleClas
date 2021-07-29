@@ -13,5 +13,6 @@
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2154601)
+> 建议A方式使用
 
-B：此处由项目作者进行撰写使用方式。
+B：根据需要，可以按照data目录下的reminds.txt进行数据补足，启动jupyter notebook打开2155385.ipynb进行项目运行
